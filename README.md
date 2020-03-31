@@ -11,4 +11,11 @@ The frontend source-code is in another repository because of Heroku hosting, tha
 ## Used Tecnologies
 - Node.js - Backend API
 - React - Frontend web
-- SQLite - Database
+- SQLite - Database  
+
+## Test
+Frontend - https://omnistack11-frontend.herokuapp.com/  
+
+Backend Endpoits:  
+- List all ONGs - https://omnisatck11-backend.herokuapp.com/ongs  
+- List all incidents - https://omnisatck11-backend.herokuapp.com/incidents
